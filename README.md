@@ -10,4 +10,6 @@
 - 👯 I’m looking to collaborate on data science projects in general, but public policy project catch my attention in a special way
 - 💬 Ask me about R, ETL, Resarch Design and Web Scraping ...
 - 📫 How to reach me: quemuel.baruque@ufpe.br
+- If u are interested in my curriculum it is available here in english here https://github.com/BaruqueRodrigues/BaruqueRodrigues/blob/main/curriculo_quemuel_eng.pdf
+- If u are interested in jobs in R, part of it is available at this link https://github.com/BaruqueRodrigues/BaruqueRodrigues/blob/main/guia_projetos.pdf
 
